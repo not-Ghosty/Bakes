@@ -1,0 +1,84 @@
+// useEffect(() => {
+  //   const myCarousel = document.getElementById("myCarousel");
+  //   new window.bootstrap.Carousel(
+  //     myCarousel,
+  //     {
+  //       interval: 3000,
+  //       wrap: true,
+  //       keyboard: true,
+  //       pause: "hover",
+  //       ride: "carousel",
+  //       touch: true,
+  //       direction: "left",
+  //       duration: 3000,
+  //       easing: "ease-in-out",
+  //     },
+  //     2000
+  //   );
+  // }, []);
+
+
+  {/* <div id="myCarousel" className="carousel slide" data-bs-ride="carousel">
+        <div className="carousel-inner">
+          <div className="carousel-item active" data-bs-interval={3000}>
+            <img
+              id={a.slideimg}
+              src={banner1}
+              className="d-block w-100"
+              alt="/"
+            />
+          </div>
+          <div
+            className="carousel-item carousel-item-next"
+            data-bs-interval={3000}
+          >
+            <img
+              id={a.slideimg}
+              src={banner2}
+              className="d-block w-100"
+              alt="/"
+            />
+          </div>
+          <div
+            className="carousel-item carousel-item-next"
+            data-bs-interval={3000}
+          >
+            <img
+              id={a.slideimg}
+              src={banner3}
+              className="d-block w-100"
+              alt="/"
+            />
+          </div>
+          <div className="carousel-item active" data-bs-interval={3000}>
+            <img
+              id={a.slideimg}
+              src={banner4}
+              className="d-block w-100"
+              alt="/"
+            />
+          </div>
+        </div>
+        <button
+          className="carousel-control-prev"
+          type="button"
+          data-bs-target="#myCarousel"
+          data-bs-slide="prev"
+          id={a.slideleftbutton}
+          onMouseOver="pause"
+        >
+          <span className="carousel-control-prev-icon" aria-hidden="true" />
+          <span className="visually-hidden">Previous</span>
+        </button>
+        <button
+          className="carousel-control-next"
+          type="button"
+          data-bs-target="#myCarousel"
+          data-bs-slide="next"
+          id={a.slideleftbutton}
+          onMouseOver="pause"
+        >
+          <span className="carousel-control-next-icon" aria-hidden="true" />
+          <span className="visually-hidden">Next</span>
+        </button>
+      </div> */}

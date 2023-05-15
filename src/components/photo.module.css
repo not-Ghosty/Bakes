@@ -1,0 +1,101 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.popular_cakes {
+  width: 100% !important;
+  height: 490px;
+  padding: 50px;
+  position: relative;
+  padding-left: 80px;
+  background-color: rgb(248, 247, 247);
+}
+.slick-slide {
+  margin-right: 10px;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0;
+}
+
+.offer {
+  font-size: medium;
+  padding: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-left: 8px;
+  height: 20px;
+  color: rgb(28, 149, 80);
+  background-color: rgb(183, 242, 208);
+}
+span {
+  color: black !important;
+}
+.card img {
+  margin: 0;
+  width: 278px;
+  height: 260px;
+  border-radius: 8px;
+  padding-left: 14px;
+  padding-top: 12px;
+}
+.card {
+  width: 290px !important;
+  height: 420px;
+  border-radius: 10px;
+  line-height: 20px;
+  box-sizing: border-box;
+  background-color: white;
+  /* padding: 5px; */
+}
+
+.card p {
+  padding-left: 10px;
+  line-height: 23px;
+  font-size: 14.4px;
+  margin-top: 10px;
+}
+.card h2 {
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 7px;
+  padding-left: 10px;
+}
+#slick_prev {
+  background-color: rgb(210, 208, 208);
+  border-radius: 20px;
+  /* padding-bottom: 10px; */
+  border: none;
+  font-size: 22px;
+  font-weight: 600;
+  color: black;
+  width: 40px;
+  height: 40px;
+  top: 270px;
+  left: 10px;
+  position: absolute;
+  cursor: pointer;
+}
+#slick_next {
+  background-color: rgb(210, 208, 208);
+  border-radius: 20px;
+  /* padding-bottom: 10px; */
+  border: none;
+  font-size: 22px;
+  font-weight: 600;
+  color: black;
+  width: 40px;
+  height: 40px;
+  top: 270px;
+  right: 10px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.card h4 {
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 18px;
+  font-size: 25px;
+}

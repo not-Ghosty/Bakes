@@ -1,0 +1,69 @@
+.popular_cakes {
+  /* background-color: aqua; */
+  width: 100%;
+  height: 550px;
+  padding: 50px;
+  position: relative;
+  padding-left: 80px;
+  background-color: rgb(251, 249, 249);
+}
+.slick-slide {
+  margin-right: 10px;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0;
+}
+
+span {
+  color: black !important;
+}
+.card img {
+  width: 250px;
+  height: 230px;
+  border-radius: 10px;
+}
+.card {
+  width: 290px !important;
+  height: 450px;
+  border-radius: 15px;
+  background-color: white;
+  padding: 20px;
+}
+
+.card h2 {
+  padding-top: 10px;
+  font-size: 18px;
+}
+#slick_prev {
+  background-color: rgb(210, 208, 208);
+  border-radius: 20px;
+  /* padding-bottom: 10px; */
+  border: none;
+  font-size: 22px;
+  font-weight: 600;
+  color: black;
+  width: 40px;
+  height: 40px;
+  top: 270px;
+  left: 10px;
+  position: absolute;
+}
+#slick_next {
+  background-color: rgb(210, 208, 208);
+  border-radius: 20px;
+  /* padding-bottom: 10px; */
+  border: none;
+  font-size: 22px;
+  font-weight: 600;
+  color: black;
+  width: 40px;
+  height: 40px;
+  top: 270px;
+  right: 10px;
+  position: absolute;
+}
+
+.card h4 {
+  font-weight: 600;
+}

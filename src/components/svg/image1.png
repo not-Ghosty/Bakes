@@ -1,0 +1,11 @@
+<img
+  width={100}
+  height={100}
+  src="https://media.bakingo.com/hamper_bk_hp_banner_d_1.jpg"
+  data-sizes="auto"
+  alt="banner"
+  title="banner"
+  loading="lazy"
+  id="banner-cake-img-2"
+  style={{ display: "inline", borderRadius: 5 }}
+/>
